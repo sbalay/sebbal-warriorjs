@@ -1,0 +1,17 @@
+{
+  "name": "sebbal-warriorjs",
+  "version": "1.0.0",
+  "description": "Warriorjs game. Check it out https://github.com/olistic/warriorjs",
+  "repository": {
+    "type": "git",
+    "url": "github.com/sbalay/sebbal-warriorjs"
+  },
+  "keywords": [
+    "warriorjs"
+  ],
+  "author": "@sebbal9 <snbalay@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/sbalay/sebbal-warriorjs/issues"
+  },
+  "homepage": "https://github.com/sbalay/sebbal-warriorjs"
+}
